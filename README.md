@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Ankit Rastogi
 
+<img src="https://drive.google.com/uc?export=view&id=1cRTVg0FG-zhcpjfGOgOZr7GPIWwhXrci" width="200" style="border-radius:50%;" alt="Ankit Rastogi" />
+
 🎓 Student at Parul University  
 💻 Passionate about Programming & Technology  
 🚀 Exploring Software Development and Open Source  
@@ -15,7 +17,7 @@
 ---
 
 ## 🛠️ Skills & Technologies
-- 💻 Languages:c/c++
+- 💻 Languages: C, C++, Python, Java (learning)
 - 🌐 Web: HTML, CSS, JavaScript
 - 🛢️ Database: MySQL
 - 🔧 Tools: Git, GitHub, VS Code
@@ -30,8 +32,8 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: rastogi.ankit0007@gmail.com
-- 💼 LinkedIn:
+- 📧 Email:rastogi.ankit0007@gmail.com
+- 💼 LinkedIn:🙌
 
 ---
 
