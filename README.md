@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Skills & Technologies
-- 💻 Languages: C, C++, Python, Java (learning)
+- 💻 Languages:c/c++
 - 🌐 Web: HTML, CSS, JavaScript
 - 🛢️ Database: MySQL
 - 🔧 Tools: Git, GitHub, VS Code
@@ -30,8 +30,8 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: (Add your LinkedIn link here)
+- 📧 Email: rastogi.ankit0007@gmail.com
+- 💼 LinkedIn:
 
 ---
 
