@@ -1,37 +1,25 @@
-# Hi there, I'm Ankit Rastogi 👋
+<div align="center"> <img src="https://drive.google.com/uc?id=1Q1ResIIyuoafse2On17mi2ZA0vQSv5sZ" alt="Ankit Rastogi" width="200" style="border-radius:50%;"/>
+Hi there, I'm Ankit Rastogi 👋
+B.Tech Student | Parul University
+Passionate about coding, innovation, and turning ideas into reality through technology.
 
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/d/1Q1ResIIyuoafse2On17mi2ZA0vQSv5sZ" alt="Ankit Rastogi" width="200" style="border-radius: 15px; border: 2px solid #58a6ff;">
-</p>
+</div>
+<div align="center">
+🚀 About Me
+Currently pursuing B.Tech at Parul University, Waghodia, Gujarat.
 
-### 🎓 About Me
-I am a passionate **B.Tech Student** at **Parul University**, dedicated to solving problems through code and building impactful projects. 
+Enthusiastic learner exploring web development, AI, and software engineering.
 
-- 🏫 **Education:** B.Tech in Computer Science & Engineering
-- 📍 **Location:** Vadodara, India
-- 🌱 **Currently Learning:** Advanced Data Structures & Web Technologies
-- ⚡ **Fun Fact:** I love turning caffeine into clean code.
+Love building projects that solve real-world problems.
 
----
+"Code is poetry. Write beautifully."
 
-### 🛠 Tech Stack
+</div>
+<div align="center"> </div>
+<div align="center">
+💻 Tech Stack
+<table> <tr> <td><b>Frontend</b></td> <td><b>Backend</b></td> <td><b>Tools</b></td> </tr> <tr> <td>HTML - CSS - JavaScript</td> <td>Node.js - Python</td> <td>Git - VS Code</td> </tr> </table> </div>
+<div align="center">
+✨ Currently working on exciting projects! Stay tuned...
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | C++, Java, Python, JavaScript |
-| **Frontend** | HTML5, CSS3, React.js |
-| **Backend** | Node.js, Express |
-| **Tools** | Git, GitHub, VS Code |
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AnkitRastogi&show_icons=true&theme=tokyonight" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitRastogi&theme=tokyonight" height="170" />
-</p>
-
----
-
-*"The best way to predict the future is to invent it."*
+</div> <div align="center"> </div>
